@@ -1,3 +1,9 @@
+/**
+    Author: Fernando López
+    Documentación: Libreria ace Editor - https://ace.c9.io/#nav=howto
+ */
+
+
 document.addEventListener('DOMContentLoaded', function () {
     let editor = ace.edit("editor");
     editor.getSession().setMode("ace/mode/java");
