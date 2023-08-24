@@ -21,7 +21,7 @@ Este proyecto fue desarrollado por Fernando López.
 
 ## Instalación
 
-1. Descargar el proyecto empaquetado.
+1. Descargar el proyecto empaquetado. ![Ejecutable](https://drive.google.com/drive/folders/1hFoAGmbSklFEE6Qij-ljjFgGC9ez4493?usp=sharing)
 
 2. Abrir y disfrutarlo.
 
