@@ -1,0 +1,104 @@
+html {
+    font-family: Consolas, monospace;
+    user-select: none;
+}
+
+li {
+    font-size: 14px;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Para evitar scrollbars en el body */
+}
+
+.ace_editor .ace_selection {
+    background-color: rgba(51, 153, 255, 0.4) !important;
+    color: white !important;
+}
+
+#download-button {
+    padding: 5px 10px;
+    font-size: 14px;
+    background-color: #007ACC;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+
+#editor {
+    height: calc(100vh - 25px); /* Resta el tamaño de la barra de navegación */
+    width: 100%;
+    margin: 0;
+    font-size: 15px;
+    overflow: auto;
+}
+
+div.notepad-editor {
+    padding: 0;
+}
+
+.notepad-interface {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden; /* Para evitar scrollbars en la notepad-interface */
+}
+
+.notepad-menu {
+    background-color: #ffffff;
+    color: rgb(31, 31, 31);
+    font-weight: thin;
+    padding: 5px 10px;
+    border-bottom: 2px solid rgb(248, 246, 246);;
+}
+
+.notepad-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.notepad-menu li {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.notepad-editor {
+    flex-grow: 1;
+    padding: 10px;
+    overflow: hidden; /* Para evitar scrollbars en el notepad-editor */
+}
+
+.notepad-status-bar {
+    background-color: #EAEAEA;
+    padding: 5px 10px;
+    text-align: right;
+    position: absolute; /* Para posicionar la barra de estado en la parte inferior */
+    bottom: 0;
+    width: 100%;
+}
+
+div.ace_content {
+    position: absolute;
+    left: 0; /* Cambiar a 0 para alinear con el borde izquierdo */
+    top: 20px;
+    background-color: #ffffff;
+}
+
+li:hover {
+   background-color: rgba(51, 153, 255, 0.4);
+}
+
+ul input {
+  height: 10px;
+}
+
+.hidden {
+    visibility: hidden;
+}
