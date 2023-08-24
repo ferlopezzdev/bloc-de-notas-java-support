@@ -23,7 +23,7 @@ Desarrollado por Fernando López.
 
 ## Instalación
 
-1. ![Descargar](https://drive.google.com/drive/folders/1hFoAGmbSklFEE6Qij-ljjFgGC9ez4493?usp=sharing)
+1. [Descargar](https://drive.google.com/drive/folders/1hFoAGmbSklFEE6Qij-ljjFgGC9ez4493?usp=sharing)
 
 2. Ejecutar.
 
