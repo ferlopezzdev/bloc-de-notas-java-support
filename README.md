@@ -9,6 +9,13 @@ Este es un editor de código simple diseñado para brindar soporte a la edición
 Desarrollado por Fernando López.
 
 
+## Instalación
+
+1. [Descargar.](https://www.mediafire.com/file/v20zfv2vwyw4j80/Bloc_de_Notas_JAVA.zip/file)
+
+2. Ejecutar.
+
+
 ## Utilidades
 
 - **Visualización del Cuadro de Título**: Haciendo clic en "Ver" en la barra de navegación, puedes alternar la visibilidad del cuadro de título del archivo que será su correspondiente nombre a la hora de guardar el archivo.
@@ -20,12 +27,6 @@ Desarrollado por Fernando López.
 ## Captura de Pantalla
 
 ![Editor en Acción](/templates/screenshot2.png)
-
-## Instalación
-
-1. [Descargar.](https://www.mediafire.com/file/v20zfv2vwyw4j80/Bloc_de_Notas_JAVA.zip/file)
-
-2. Ejecutar.
 
 ## Ejemplo de Uso
 
