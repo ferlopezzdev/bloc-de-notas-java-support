@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Bloc de Notas</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="img/notepad.ico" type="image/x-icon">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.4.12/ace.js"></script>
+</head>
+<body>
+    <div class="notepad-interface">
+        <div class="notepad-menu">
+            <ul>
+                <li id="saveButton">Archivo</li>
+                <li>Editar</li>
+                <li>Formato</li>
+                <li id="ver">Ver</li>
+                <li>Ayuda</li>
+                <input id="file-name" type="text" placeholder="nombre del archivo">
+            </ul>
+        </div>
+        <div class="notepad-editor">
+            <div id="editor"></div>
+        </div>
+        <div class="notepad-status-bar">
+
+        </div>
+    </div>
+    <div id="editor"></div>
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+
+</body>
+
+</html>
