@@ -23,7 +23,7 @@ Desarrollado por Fernando López.
 
 ## Instalación
 
-1. [Descargar](https://www.mediafire.com/file/v20zfv2vwyw4j80/Bloc_de_Notas_JAVA.zip/file)
+1. [Descargar.](https://www.mediafire.com/file/v20zfv2vwyw4j80/Bloc_de_Notas_JAVA.zip/file)
 
 2. Ejecutar.
 
