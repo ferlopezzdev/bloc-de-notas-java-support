@@ -6,7 +6,7 @@ Este es un editor de código simple diseñado para brindar soporte a la edición
 
 ## Autor
 
-Este proyecto fue desarrollado por Fernando López.
+Desarrollado por Fernando López.
 
 
 ## Utilidades
@@ -23,7 +23,7 @@ Este proyecto fue desarrollado por Fernando López.
 
 1. ![Descargar](https://drive.google.com/drive/folders/1hFoAGmbSklFEE6Qij-ljjFgGC9ez4493?usp=sharing)
 
-2. Abrir y disfrutarlo.
+2. Ejecutar.
 
 ## Ejemplo de Uso
 
