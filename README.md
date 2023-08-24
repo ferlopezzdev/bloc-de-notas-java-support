@@ -17,7 +17,7 @@ Este proyecto fue desarrollado por Fernando López.
 
 ## Captura de Pantalla
 
-![Editor en Acción](screenshot_editor.gif)
+![Editor en Acción](/templates/screenshot2.png)
 
 ## Instalación
 
