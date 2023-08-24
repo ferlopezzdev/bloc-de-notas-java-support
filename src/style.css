@@ -31,7 +31,7 @@ body {
 
 
 #editor {
-    height: calc(100vh - 25px); /* Resta el tamaño de la barra de navegación */
+    height: calc(100vh - 25px);
     width: 100%;
     margin: 0;
     font-size: 15px;
@@ -46,7 +46,7 @@ div.notepad-editor {
     display: flex;
     flex-direction: column;
     height: 100vh;
-    overflow: hidden; /* Para evitar scrollbars en la notepad-interface */
+    overflow: hidden; 
 }
 
 .notepad-menu {
@@ -72,21 +72,21 @@ div.notepad-editor {
 .notepad-editor {
     flex-grow: 1;
     padding: 10px;
-    overflow: hidden; /* Para evitar scrollbars en el notepad-editor */
+    overflow: hidden;
 }
 
 .notepad-status-bar {
     background-color: #EAEAEA;
     padding: 5px 10px;
     text-align: right;
-    position: absolute; /* Para posicionar la barra de estado en la parte inferior */
+    position: absolute;
     bottom: 0;
     width: 100%;
 }
 
 div.ace_content {
     position: absolute;
-    left: 0; /* Cambiar a 0 para alinear con el borde izquierdo */
+    left: 0;
     top: 20px;
     background-color: #ffffff;
 }
