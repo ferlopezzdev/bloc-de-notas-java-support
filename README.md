@@ -13,6 +13,8 @@ Desarrollado por Fernando López.
 
 - **Visualización del Cuadro de Título**: Haciendo clic en "Ver" en la barra de navegación, puedes alternar la visibilidad del cuadro de título del archivo que será su correspondiente nombre a la hora de guardar el archivo.
 
+- **Activar/Desactivar el Autocompletado**: Puedes alternar la activación o desactivación del autocompletado del editor pulsando "F4".
+
 - **Guardado en Formato .java**: Al seleccionar "Archivo", podrás guardar el código en formato .java en tu sistema de archivos local.
 
 ## Captura de Pantalla
