@@ -11,7 +11,7 @@ Desarrollado por Fernando López.
 
 ## Instalación
 
-1. [Descargar.](https://www.mediafire.com/file/bk29xfla5fmmy02/Bloc_de_Notas_JAVA.zip/file)
+1. [Descargar.](https://drive.google.com/file/d/1LHkRAtW7Tzumziu6Vog7NIjpq6G3UFYz/view?usp=sharing)
 
 2. Ejecutar.
 
